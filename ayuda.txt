@@ -1,0 +1,28 @@
+# Nombre de la APP:
+# CRUD DE TAREAS
+
+LIBRERIAS USADAS EN ESTE PROYECTO
+# TAILWIND CSS
+# REACT ROUTER V.6
+# Sirve para tener múltiples links/enlaces en la aplicación
+# Podemos usar los siguientes modulos:
+* BrowserRouter
+* Route
+* Routes
+* Link
+npm i react-router-dom@6
+# REACT ICONS
+
+# Nuevo modulo aprendido
+# USEREDUCER
+sirve para actualizar el estado
+# USENAVIGATE
+sirve para navegar por la web al hacer click en un boton
+
+# UUID
+* npm i uuid
+
+****************************************
+El CONTEXT sirve para tener un estado global
+El USE STATE es el estado de un solo componente
+El CONTEXT PROVIDER sirve para que los componentes hijos puedan acceder al estado global
